@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(204, 118, 47);
+    text-align: center;
+
+}
+
+#results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.results{
+    width: 25%;
+    border: 1px solid;
+    padding: 20px;
+    margin: 2%;
+    border-radius: 15px;
+    
+
+}
+
+.results img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+    
